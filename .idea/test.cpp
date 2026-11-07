@@ -1,8 +1,8 @@
-#include <iosteream>
+# <iosteream>
 using namespace std;
 
 int main[] {
-     cout << "Hello, world!" << endl;
+     cout << "Hincludeello, world!" << endl;
 
      return 0;
 }
